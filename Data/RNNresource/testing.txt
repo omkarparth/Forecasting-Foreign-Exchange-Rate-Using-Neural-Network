@@ -1,0 +1,3176 @@
+intput: 54.83
+Expected Output: 54.39
+Actual: 64.29864529495026
+
+intput: 54.39
+Expected Output: 54.42
+Actual: 64.26380066161234
+
+intput: 54.42
+Expected Output: 54.85
+Actual: 64.26616523223265
+
+intput: 54.85
+Expected Output: 54.98
+Actual: 64.30006453199506
+
+intput: 54.98
+Expected Output: 55.33
+Actual: 64.31031485586418
+
+intput: 55.33
+Expected Output: 54.96
+Actual: 64.33791251551341
+
+intput: 54.96
+Expected Output: 54.63
+Actual: 64.30873785716312
+
+intput: 54.63
+Expected Output: 54.54
+Actual: 64.28271927905068
+
+intput: 54.54
+Expected Output: 54.64
+Actual: 64.27562428251076
+
+intput: 54.64
+Expected Output: 54.54
+Actual: 64.28350764478071
+
+intput: 54.54
+Expected Output: 54.83
+Actual: 64.27562428251076
+
+intput: 54.83
+Expected Output: 54.64
+Actual: 64.29848760265334
+
+intput: 54.64
+Expected Output: 53.95
+Actual: 64.28350764478071
+
+intput: 53.95
+Expected Output: 53.87
+Actual: 64.22913172995337
+
+intput: 53.87
+Expected Output: 53.51
+Actual: 64.22283107868219
+
+intput: 53.51
+Expected Output: 53.77
+Actual: 64.19449175511075
+
+intput: 53.77
+Expected Output: 53.85
+Actual: 64.21495671092794
+
+intput: 53.85
+Expected Output: 53.89
+Actual: 64.22125607314904
+
+intput: 53.89
+Expected Output: 53.70
+Actual: 64.22440614815525
+
+intput: 53.70
+Expected Output: 53.57
+Actual: 64.20944567324216
+
+intput: 53.57
+Expected Output: 53.29
+Actual: 64.19921328345575
+
+intput: 53.29
+Expected Output: 53.32
+Actual: 64.17718603698579
+
+intput: 53.32
+Expected Output: 52.97
+Actual: 64.1795452710088
+
+intput: 52.97
+Expected Output: 53.29
+Actual: 64.15203466747906
+
+intput: 53.29
+Expected Output: 53.09
+Actual: 64.17718603698579
+
+intput: 53.09
+Expected Output: 53.14
+Actual: 64.1614633582692
+
+intput: 53.14
+Expected Output: 53.57
+Actual: 64.16539309472451
+
+intput: 53.57
+Expected Output: 53.68
+Actual: 64.19921328345575
+
+intput: 53.68
+Expected Output: 53.96
+Actual: 64.2078712525944
+
+intput: 53.96
+Expected Output: 53.85
+Actual: 64.22991938002383
+
+intput: 53.85
+Expected Output: 53.87
+Actual: 64.22125607314904
+
+intput: 53.87
+Expected Output: 53.99
+Actual: 64.22283107868219
+
+intput: 53.99
+Expected Output: 54.29
+Actual: 64.23228241870443
+
+intput: 54.29
+Expected Output: 54.05
+Actual: 64.25591938378923
+
+intput: 54.05
+Expected Output: 54.48
+Actual: 64.23700888262479
+
+intput: 54.48
+Expected Output: 54.43
+Actual: 64.27089461076505
+
+intput: 54.43
+Expected Output: 54.04
+Actual: 64.26695344044572
+
+intput: 54.04
+Expected Output: 54.06
+Actual: 64.23622110370142
+
+intput: 54.06
+Expected Output: 53.84
+Actual: 64.23779667522317
+
+intput: 53.84
+Expected Output: 53.77
+Actual: 64.22046859468048
+
+intput: 53.77
+Expected Output: 54.48
+Actual: 64.21495671092794
+
+intput: 54.48
+Expected Output: 55.05
+Actual: 64.27089461076505
+
+intput: 55.05
+Expected Output: 54.65
+Actual: 64.31583439811146
+
+intput: 54.65
+Expected Output: 54.71
+Actual: 64.28429601659457
+
+intput: 54.71
+Expected Output: 54.74
+Actual: 64.28902636802104
+
+intput: 54.74
+Expected Output: 54.40
+Actual: 64.29139161542702
+
+intput: 54.40
+Expected Output: 54.29
+Actual: 64.26458884268725
+
+intput: 54.29
+Expected Output: 54.34
+Actual: 64.25591938378923
+
+intput: 54.34
+Expected Output: 54.11
+Actual: 64.25985989836414
+
+intput: 54.11
+Expected Output: 54.44
+Actual: 64.24173583884516
+
+intput: 54.44
+Expected Output: 54.16
+Actual: 64.26774165744737
+
+intput: 54.16
+Expected Output: 54.29
+Actual: 64.24567532507453
+
+intput: 54.29
+Expected Output: 54.26
+Actual: 64.25591938378923
+
+intput: 54.26
+Expected Output: 54.38
+Actual: 64.25355520109771
+
+intput: 54.38
+Expected Output: 54.28
+Actual: 64.26301248984092
+
+intput: 54.28
+Expected Output: 54.34
+Actual: 64.25513131213035
+
+intput: 54.34
+Expected Output: 54.10
+Actual: 64.25985989836414
+
+intput: 54.10
+Expected Output: 54.27
+Actual: 64.24094797979825
+
+intput: 54.27
+Expected Output: 54.39
+Actual: 64.25434325119029
+
+intput: 54.39
+Expected Output: 54.33
+Actual: 64.26380066161234
+
+intput: 54.33
+Expected Output: 54.39
+Actual: 64.25907177504062
+
+intput: 54.39
+Expected Output: 54.65
+Actual: 64.26380066161234
+
+intput: 54.65
+Expected Output: 54.88
+Actual: 64.28429601659457
+
+intput: 54.88
+Expected Output: 54.72
+Actual: 64.30242995101196
+
+intput: 54.72
+Expected Output: 54.46
+Actual: 64.2898147788132
+
+intput: 54.46
+Expected Output: 54.53
+Actual: 64.2693181173015
+
+intput: 54.53
+Expected Output: 54.44
+Actual: 64.27483598470488
+
+intput: 54.44
+Expected Output: 54.63
+Actual: 64.26774165744737
+
+intput: 54.63
+Expected Output: 54.33
+Actual: 64.28271927905068
+
+intput: 54.33
+Expected Output: 53.94
+Actual: 64.25907177504062
+
+intput: 53.94
+Expected Output: 54.03
+Actual: 64.22834409484167
+
+intput: 54.03
+Expected Output: 54.17
+Actual: 64.23543333858153
+
+intput: 54.17
+Expected Output: 54.30
+Actual: 64.24646325961983
+
+intput: 54.30
+Expected Output: 54.17
+Actual: 64.25670746603836
+
+intput: 54.17
+Expected Output: 54.29
+Actual: 64.24646325961983
+
+intput: 54.29
+Expected Output: 54.28
+Actual: 64.25591938378923
+
+intput: 54.28
+Expected Output: 54.22
+Actual: 64.25513131213035
+
+intput: 54.22
+Expected Output: 53.74
+Actual: 64.25040311177436
+
+intput: 53.74
+Expected Output: 53.95
+Actual: 64.21259473147191
+
+intput: 53.95
+Expected Output: 53.95
+Actual: 64.22913172995337
+
+intput: 53.95
+Expected Output: 54.28
+Actual: 64.22913172995337
+
+intput: 54.28
+Expected Output: 54.16
+Actual: 64.25513131213035
+
+intput: 54.16
+Expected Output: 54.24
+Actual: 64.24567532507453
+
+intput: 54.24
+Expected Output: 54.54
+Actual: 64.25197913396944
+
+intput: 54.54
+Expected Output: 54.91
+Actual: 64.27562428251076
+
+intput: 54.91
+Expected Output: 54.63
+Actual: 64.30479539693938
+
+intput: 54.63
+Expected Output: 54.78
+Actual: 64.28271927905068
+
+intput: 54.78
+Expected Output: 54.77
+Actual: 64.29454534516357
+
+intput: 54.77
+Expected Output: 54.89
+Actual: 64.29375690598808
+
+intput: 54.89
+Expected Output: 55.04
+Actual: 64.30321843016964
+
+intput: 55.04
+Expected Output: 55.04
+Actual: 64.31504588865141
+
+intput: 55.04
+Expected Output: 55.52
+Actual: 64.31504588865141
+
+intput: 55.52
+Expected Output: 55.99
+Actual: 64.35289301150468
+
+intput: 55.99
+Expected Output: 55.61
+Actual: 64.38993999690615
+
+intput: 55.61
+Expected Output: 55.62
+Actual: 64.35998842676878
+
+intput: 55.62
+Expected Output: 55.74
+Actual: 64.36077677583746
+
+intput: 55.74
+Expected Output: 56.24
+Actual: 64.37023641660365
+
+intput: 56.24
+Expected Output: 56.10
+Actual: 64.40963650218839
+
+intput: 56.10
+Expected Output: 56.50
+Actual: 64.39860744979178
+
+intput: 56.50
+Expected Output: 56.57
+Actual: 64.43011120217287
+
+intput: 56.57
+Expected Output: 56.64
+Actual: 64.43562165077873
+
+intput: 56.64
+Expected Output: 56.42
+Actual: 64.44113117955678
+
+intput: 56.42
+Expected Output: 56.87
+Actual: 64.42381247672327
+
+intput: 56.87
+Expected Output: 56.74
+Actual: 64.45922689560238
+
+intput: 56.74
+Expected Output: 57.78
+Actual: 64.44900025220434
+
+intput: 57.78
+Expected Output: 58.93
+Actual: 64.53069072273387
+
+intput: 58.93
+Expected Output: 58.27
+Actual: 64.62058568790954
+
+intput: 58.27
+Expected Output: 58.41
+Actual: 64.56906013194845
+
+intput: 58.41
+Expected Output: 57.74
+Actual: 64.58000568199155
+
+intput: 57.74
+Expected Output: 57.73
+Actual: 64.52755470378901
+
+intput: 57.73
+Expected Output: 58.45
+Actual: 64.52677061457103
+
+intput: 58.45
+Expected Output: 58.74
+Actual: 64.58313148239772
+
+intput: 58.74
+Expected Output: 59.70
+Actual: 64.60577267019336
+
+intput: 59.70
+Expected Output: 59.35
+Actual: 64.68042934246105
+
+intput: 59.35
+Expected Output: 59.73
+Actual: 64.65326690477704
+
+intput: 59.73
+Expected Output: 59.70
+Actual: 64.68275432500269
+
+intput: 59.70
+Expected Output: 59.85
+Actual: 64.68042934246105
+
+intput: 59.85
+Expected Output: 60.59
+Actual: 64.69204897992424
+
+intput: 60.59
+Expected Output: 59.70
+Actual: 64.74916823471689
+
+intput: 59.70
+Expected Output: 59.15
+Actual: 64.68042934246105
+
+intput: 59.15
+Expected Output: 59.41
+Actual: 64.63771566910357
+
+intput: 59.41
+Expected Output: 60.10
+Actual: 64.65792813487204
+
+intput: 60.10
+Expected Output: 60.09
+Actual: 64.71138499596442
+
+intput: 60.09
+Expected Output: 60.34
+Actual: 64.71061229508928
+
+intput: 60.34
+Expected Output: 61.05
+Actual: 64.72991073999907
+
+intput: 61.05
+Expected Output: 60.07
+Actual: 64.78448890683487
+
+intput: 60.07
+Expected Output: 60.13
+Actual: 64.70906670577477
+
+intput: 60.13
+Expected Output: 59.64
+Actual: 64.71370272203421
+
+intput: 59.64
+Expected Output: 59.90
+Actual: 64.6757778175506
+
+intput: 59.90
+Expected Output: 60.05
+Actual: 64.69591922769004
+
+intput: 60.05
+Expected Output: 59.39
+Actual: 64.70752086716803
+
+intput: 59.39
+Expected Output: 59.36
+Actual: 64.65637460774337
+
+intput: 59.36
+Expected Output: 59.71
+Actual: 64.6540439113032
+
+intput: 59.71
+Expected Output: 59.80
+Actual: 64.6812043946941
+
+intput: 59.80
+Expected Output: 59.41
+Actual: 64.68817723979407
+
+intput: 59.41
+Expected Output: 59.69
+Actual: 64.65792813487204
+
+intput: 59.69
+Expected Output: 59.45
+Actual: 64.67965423233609
+
+intput: 59.45
+Expected Output: 58.94
+Actual: 64.66103453555878
+
+intput: 58.94
+Expected Output: 58.91
+Actual: 64.62136484269213
+
+intput: 58.91
+Expected Output: 59.30
+Actual: 64.6190272329306
+
+intput: 59.30
+Expected Output: 59.83
+Actual: 64.64938106977745
+
+intput: 59.83
+Expected Output: 61.12
+Actual: 64.69050046211647
+
+intput: 61.12
+Expected Output: 60.74
+Actual: 64.78985038237225
+
+intput: 60.74
+Expected Output: 60.80
+Actual: 64.76070231158921
+
+intput: 60.80
+Expected Output: 60.82
+Actual: 64.76531154136013
+
+intput: 60.82
+Expected Output: 61.54
+Actual: 64.76684738530068
+
+intput: 61.54
+Expected Output: 61.39
+Actual: 64.82194111470845
+
+intput: 61.39
+Expected Output: 61.12
+Actual: 64.81049577355091
+
+intput: 61.12
+Expected Output: 60.80
+Actual: 64.78985038237225
+
+intput: 60.80
+Expected Output: 61.43
+Actual: 64.76531154136013
+
+intput: 61.43
+Expected Output: 61.52
+Actual: 64.81354958886101
+
+intput: 61.52
+Expected Output: 61.82
+Actual: 64.82041609254476
+
+intput: 61.82
+Expected Output: 62.35
+Actual: 64.84325768767619
+
+intput: 62.35
+Expected Output: 63.73
+Actual: 64.88342789633846
+
+intput: 63.73
+Expected Output: 63.46
+Actual: 64.98681887835316
+
+intput: 63.46
+Expected Output: 65.42
+Actual: 64.96673564643768
+
+intput: 65.42
+Expected Output: 64.69
+Actual: 65.1107480740891
+
+intput: 64.69
+Expected Output: 64.23
+Actual: 65.05760631757417
+
+intput: 64.23
+Expected Output: 65.67
+Actual: 65.02381092580809
+
+intput: 65.67
+Expected Output: 68.36
+Actual: 65.12880369139195
+
+intput: 68.36
+Expected Output: 67.71
+Actual: 65.31803661014892
+
+intput: 67.71
+Expected Output: 66.57
+Actual: 65.27319726316102
+
+intput: 66.57
+Expected Output: 65.86
+Actual: 65.19316872168854
+
+intput: 65.86
+Expected Output: 66.89
+Actual: 65.14247550327286
+
+intput: 66.89
+Expected Output: 67.03
+Actual: 65.21580643827066
+
+intput: 67.03
+Expected Output: 66.04
+Actual: 65.22566840681358
+
+intput: 66.04
+Expected Output: 65.96
+Actual: 65.15538695219504
+
+intput: 65.96
+Expected Output: 64.22
+Actual: 65.1496534638031
+
+intput: 64.22
+Expected Output: 63.90
+Actual: 65.0230736806005
+
+intput: 63.90
+Expected Output: 63.67
+Actual: 64.99942559891193
+
+intput: 63.67
+Expected Output: 63.79
+Actual: 64.98236233722432
+
+intput: 63.79
+Expected Output: 62.48
+Actual: 64.99127172292101
+
+intput: 62.48
+Expected Output: 63.38
+Actual: 64.89324371132781
+
+intput: 63.38
+Expected Output: 63.14
+Actual: 64.96077097548094
+
+intput: 63.14
+Expected Output: 61.75
+Actual: 64.94283910320378
+
+intput: 61.75
+Expected Output: 62.24
+Actual: 64.83793451149637
+
+intput: 62.24
+Expected Output: 62.52
+Actual: 64.87511054239023
+
+intput: 62.52
+Expected Output: 62.66
+Actual: 64.89626092338625
+
+intput: 62.66
+Expected Output: 62.70
+Actual: 64.90680976470435
+
+intput: 62.70
+Expected Output: 62.23
+Actual: 64.90982043375419
+
+intput: 62.23
+Expected Output: 61.81
+Actual: 64.87435389452398
+
+intput: 61.81
+Expected Output: 62.78
+Actual: 64.84249748049993
+
+intput: 62.78
+Expected Output: 62.36
+Actual: 64.9158373467508
+
+intput: 62.36
+Expected Output: 61.93
+Actual: 64.88418349182335
+
+intput: 61.93
+Expected Output: 61.41
+Actual: 64.85161449826184
+
+intput: 61.41
+Expected Output: 61.78
+Actual: 64.81202283698495
+
+intput: 61.78
+Expected Output: 61.69
+Actual: 64.84021636517664
+
+intput: 61.69
+Expected Output: 61.92
+Actual: 64.83336860109044
+
+intput: 61.92
+Expected Output: 62.14
+Actual: 64.85085520450852
+
+intput: 62.14
+Expected Output: 61.16
+Actual: 64.86754016215217
+
+intput: 61.16
+Expected Output: 61.30
+Actual: 64.7929124442285
+
+intput: 61.30
+Expected Output: 61.69
+Actual: 64.80362015685355
+
+intput: 61.69
+Expected Output: 61.58
+Actual: 64.83336860109044
+
+intput: 61.58
+Expected Output: 61.28
+Actual: 64.82499020587098
+
+intput: 61.28
+Expected Output: 61.49
+Actual: 64.80209139604993
+
+intput: 61.49
+Expected Output: 61.78
+Actual: 64.81812796610205
+
+intput: 61.78
+Expected Output: 61.53
+Actual: 64.84021636517664
+
+intput: 61.53
+Expected Output: 61.41
+Actual: 64.82117864324812
+
+intput: 61.41
+Expected Output: 61.62
+Actual: 64.81202283698495
+
+intput: 61.62
+Expected Output: 61.50
+Actual: 64.82803802015657
+
+intput: 61.50
+Expected Output: 61.46
+Actual: 64.81889075385914
+
+intput: 61.46
+Expected Output: 61.49
+Actual: 64.81583913052589
+
+intput: 61.49
+Expected Output: 61.41
+Actual: 64.81812796610205
+
+intput: 61.41
+Expected Output: 61.90
+Actual: 64.81202283698495
+
+intput: 61.90
+Expected Output: 61.79
+Actual: 64.84933636633673
+
+intput: 61.79
+Expected Output: 61.92
+Actual: 64.84097681913903
+
+intput: 61.92
+Expected Output: 62.57
+Actual: 64.85085520450852
+
+intput: 62.57
+Expected Output: 62.73
+Actual: 64.90003040981341
+
+intput: 62.73
+Expected Output: 63.30
+Actual: 64.91207746940809
+
+intput: 63.30
+Expected Output: 63.59
+Actual: 64.9547999595886
+
+intput: 63.59
+Expected Output: 63.65
+Actual: 64.97641456964581
+
+intput: 63.65
+Expected Output: 63.06
+Actual: 64.98087600579984
+
+intput: 63.06
+Expected Output: 62.62
+Actual: 64.93684936842632
+
+intput: 62.62
+Expected Output: 62.23
+Actual: 64.90379762969249
+
+intput: 62.23
+Expected Output: 62.56
+Actual: 64.87435389452398
+
+intput: 62.56
+Expected Output: 62.89
+Actual: 64.8992766934238
+
+intput: 62.89
+Expected Output: 63.02
+Actual: 64.92410088343318
+
+intput: 63.02
+Expected Output: 62.58
+Actual: 64.93385219763603
+
+intput: 62.58
+Expected Output: 62.45
+Actual: 64.900784035541
+
+intput: 62.45
+Expected Output: 62.36
+Actual: 64.8909798600915
+
+intput: 62.36
+Expected Output: 62.39
+Actual: 64.88418349182335
+
+intput: 62.39
+Expected Output: 62.39
+Actual: 64.88644974742797
+
+intput: 62.39
+Expected Output: 62.23
+Actual: 64.88644974742797
+
+intput: 62.23
+Expected Output: 62.34
+Actual: 64.87435389452398
+
+intput: 62.34
+Expected Output: 62.33
+Actual: 64.8826722125588
+
+intput: 62.33
+Expected Output: 61.69
+Actual: 64.88191644059265
+
+intput: 61.69
+Expected Output: 61.67
+Actual: 64.83336860109044
+
+intput: 61.67
+Expected Output: 61.18
+Actual: 64.83184598147238
+
+intput: 61.18
+Expected Output: 61.21
+Actual: 64.79444302533088
+
+intput: 61.21
+Expected Output: 61.33
+Actual: 64.79673833213145
+
+intput: 61.33
+Expected Output: 61.62
+Actual: 64.80591272295563
+
+intput: 61.62
+Expected Output: 62.13
+Actual: 64.82803802015657
+
+intput: 62.13
+Expected Output: 62.10
+Actual: 64.86678264926937
+
+intput: 62.10
+Expected Output: 61.96
+Actual: 64.86450959565283
+
+intput: 61.96
+Expected Output: 61.92
+Actual: 64.85389187686582
+
+intput: 61.92
+Expected Output: 62.38
+Actual: 64.85085520450852
+
+intput: 62.38
+Expected Output: 62.24
+Actual: 64.88569441747622
+
+intput: 62.24
+Expected Output: 61.99
+Actual: 64.87511054239023
+
+intput: 61.99
+Expected Output: 61.87
+Actual: 64.85616849916843
+
+intput: 61.87
+Expected Output: 61.98
+Actual: 64.84705748407491
+
+intput: 61.98
+Expected Output: 62.06
+Actual: 64.85540970928483
+
+intput: 62.06
+Expected Output: 62.00
+Actual: 64.86147765999382
+
+intput: 62.00
+Expected Output: 61.90
+Actual: 64.85692720468785
+
+intput: 61.90
+Expected Output: 61.93
+Actual: 64.84933636633673
+
+intput: 61.93
+Expected Output: 61.90
+Actual: 64.85161449826184
+
+intput: 61.90
+Expected Output: 62.41
+Actual: 64.84933636633673
+
+intput: 62.41
+Expected Output: 62.33
+Actual: 64.88796014104207
+
+intput: 62.33
+Expected Output: 62.38
+Actual: 64.88191644059265
+
+intput: 62.38
+Expected Output: 62.24
+Actual: 64.88569441747622
+
+intput: 62.24
+Expected Output: 62.18
+Actual: 64.87511054239023
+
+intput: 62.18
+Expected Output: 61.94
+Actual: 64.8705693524868
+
+intput: 61.94
+Expected Output: 61.52
+Actual: 64.85237370831277
+
+intput: 61.52
+Expected Output: 61.59
+Actual: 64.82041609254476
+
+intput: 61.59
+Expected Output: 61.53
+Actual: 64.82575227943018
+
+intput: 61.53
+Expected Output: 61.35
+Actual: 64.82117864324812
+
+intput: 61.35
+Expected Output: 61.63
+Actual: 64.80744071562998
+
+intput: 61.63
+Expected Output: 61.54
+Actual: 64.82879977337457
+
+intput: 61.54
+Expected Output: 61.92
+Actual: 64.82194111470845
+
+intput: 61.92
+Expected Output: 61.99
+Actual: 64.85085520450852
+
+intput: 61.99
+Expected Output: 62.18
+Actual: 64.85616849916843
+
+intput: 62.18
+Expected Output: 62.71
+Actual: 64.8705693524868
+
+intput: 62.71
+Expected Output: 62.99
+Actual: 64.91057287116197
+
+intput: 62.99
+Expected Output: 62.20
+Actual: 64.93160331727704
+
+intput: 62.20
+Expected Output: 62.73
+Actual: 64.87208342940704
+
+intput: 62.73
+Expected Output: 62.48
+Actual: 64.91207746940809
+
+intput: 62.48
+Expected Output: 62.69
+Actual: 64.89324371132781
+
+intput: 62.69
+Expected Output: 62.68
+Actual: 64.90906790429821
+
+intput: 62.68
+Expected Output: 62.45
+Actual: 64.90831528290035
+
+intput: 62.45
+Expected Output: 62.50
+Actual: 64.8909798600915
+
+intput: 62.50
+Expected Output: 62.32
+Actual: 64.89475249718045
+
+intput: 62.32
+Expected Output: 62.19
+Actual: 64.88116058054825
+
+intput: 62.19
+Expected Output: 62.44
+Actual: 64.87132643422514
+
+intput: 62.44
+Expected Output: 62.12
+Actual: 64.89022506412103
+
+intput: 62.12
+Expected Output: 62.27
+Actual: 64.86602505048559
+
+intput: 62.27
+Expected Output: 62.28
+Actual: 64.87737996294703
+
+intput: 62.28
+Expected Output: 61.95
+Actual: 64.87813626175624
+
+intput: 61.95
+Expected Output: 62.12
+Actual: 64.85313283455088
+
+intput: 62.12
+Expected Output: 62.28
+Actual: 64.86602505048559
+
+intput: 62.28
+Expected Output: 62.16
+Actual: 64.87813626175624
+
+intput: 62.16
+Expected Output: 62.12
+Actual: 64.86905492977735
+
+intput: 62.12
+Expected Output: 61.98
+Actual: 64.86602505048559
+
+intput: 61.98
+Expected Output: 61.94
+Actual: 64.85540970928483
+
+intput: 61.94
+Expected Output: 62.07
+Actual: 64.85237370831277
+
+intput: 62.07
+Expected Output: 61.86
+Actual: 64.86223577188369
+
+intput: 61.86
+Expected Output: 61.90
+Actual: 64.84629769042925
+
+intput: 61.90
+Expected Output: 61.85
+Actual: 64.84933636633673
+
+intput: 61.85
+Expected Output: 61.32
+Actual: 64.84553781385567
+
+intput: 61.32
+Expected Output: 60.98
+Actual: 64.80514861108684
+
+intput: 60.98
+Expected Output: 61.20
+Actual: 64.77912381573618
+
+intput: 61.20
+Expected Output: 60.70
+Actual: 64.79597330533053
+
+intput: 60.70
+Expected Output: 61.09
+Actual: 64.7576280860728
+
+intput: 61.09
+Expected Output: 61.02
+Actual: 64.78755305238847
+
+intput: 61.02
+Expected Output: 61.52
+Actual: 64.78219002250324
+
+intput: 61.52
+Expected Output: 60.95
+Actual: 64.82041609254476
+
+intput: 60.95
+Expected Output: 61.10
+Actual: 64.77682339394359
+
+intput: 61.10
+Expected Output: 61.13
+Actual: 64.78831890344851
+
+intput: 61.13
+Expected Output: 61.05
+Actual: 64.79061601000689
+
+intput: 61.05
+Expected Output: 60.70
+Actual: 64.78448890683487
+
+intput: 60.70
+Expected Output: 60.49
+Actual: 64.7576280860728
+
+intput: 60.49
+Expected Output: 60.17
+Actual: 64.74147026863606
+
+intput: 60.17
+Expected Output: 60.13
+Actual: 64.71679214039439
+
+intput: 60.13
+Expected Output: 60.10
+Actual: 64.71370272203421
+
+intput: 60.10
+Expected Output: 59.65
+Actual: 64.71138499596442
+
+intput: 59.65
+Expected Output: 60.12
+Actual: 64.6765532153272
+
+intput: 60.12
+Expected Output: 60.32
+Actual: 64.71293020955578
+
+intput: 60.32
+Expected Output: 59.95
+Actual: 64.72836834695538
+
+intput: 59.95
+Expected Output: 60.07
+Actual: 64.6997879681161
+
+intput: 60.07
+Expected Output: 60.21
+Actual: 64.70906670577477
+
+intput: 60.21
+Expected Output: 60.27
+Actual: 64.71988054257159
+
+intput: 60.27
+Expected Output: 60.26
+Actual: 64.72451122389884
+
+intput: 60.26
+Expected Output: 60.23
+Actual: 64.72373960472723
+
+intput: 60.23
+Expected Output: 60.38
+Actual: 64.72142436021997
+
+intput: 60.38
+Expected Output: 60.34
+Actual: 64.73299473887367
+
+intput: 60.34
+Expected Output: 60.71
+Actual: 64.72991073999907
+
+intput: 60.71
+Expected Output: 61.07
+Actual: 64.75839674735406
+
+intput: 61.07
+Expected Output: 61.12
+Actual: 64.786021127645
+
+intput: 61.12
+Expected Output: 60.50
+Actual: 64.78985038237225
+
+intput: 60.50
+Expected Output: 60.53
+Actual: 64.74224036996895
+
+intput: 60.53
+Expected Output: 60.34
+Actual: 64.74455026907368
+
+intput: 60.34
+Expected Output: 60.23
+Actual: 64.72991073999907
+
+intput: 60.23
+Expected Output: 60.05
+Actual: 64.72142436021997
+
+intput: 60.05
+Expected Output: 60.20
+Actual: 64.70752086716803
+
+intput: 60.20
+Expected Output: 60.04
+Actual: 64.71910853770959
+
+intput: 60.04
+Expected Output: 59.99
+Actual: 64.70674785467777
+
+intput: 59.99
+Expected Output: 60.05
+Actual: 64.70288186512423
+
+intput: 60.05
+Expected Output: 59.73
+Actual: 64.70752086716803
+
+intput: 59.73
+Expected Output: 59.88
+Actual: 64.68275432500269
+
+intput: 59.88
+Expected Output: 59.47
+Actual: 64.69437130862642
+
+intput: 59.47
+Expected Output: 58.86
+Actual: 64.6625874071739
+
+intput: 58.86
+Expected Output: 58.43
+Actual: 64.6151302529833
+
+intput: 58.43
+Expected Output: 58.75
+Actual: 64.58156866683575
+
+intput: 58.75
+Expected Output: 58.77
+Actual: 64.60655272562883
+
+intput: 58.77
+Expected Output: 58.57
+Actual: 64.60811269750099
+
+intput: 58.57
+Expected Output: 58.48
+Actual: 64.59250476508879
+
+intput: 58.48
+Expected Output: 58.59
+Actual: 64.58547538615755
+
+intput: 58.59
+Expected Output: 59.06
+Actual: 64.59406636780743
+
+intput: 59.06
+Expected Output: 59.08
+Actual: 64.63071087135718
+
+intput: 59.08
+Expected Output: 58.84
+Actual: 64.6322678469939
+
+intput: 58.84
+Expected Output: 59.03
+Actual: 64.6135711265922
+
+intput: 59.03
+Expected Output: 59.14
+Actual: 64.62837503238553
+
+intput: 59.14
+Expected Output: 59.21
+Actual: 64.63693756146036
+
+intput: 59.21
+Expected Output: 59.34
+Actual: 64.64238323521715
+
+intput: 59.34
+Expected Output: 59.30
+Actual: 64.65248984459728
+
+intput: 59.30
+Expected Output: 59.20
+Actual: 64.64938106977745
+
+intput: 59.20
+Expected Output: 59.06
+Actual: 64.64160543668422
+
+intput: 59.06
+Expected Output: 59.26
+Actual: 64.63071087135718
+
+intput: 59.26
+Expected Output: 59.33
+Actual: 64.64627144624467
+
+intput: 59.33
+Expected Output: 59.33
+Actual: 64.65171273088566
+
+intput: 59.33
+Expected Output: 59.48
+Actual: 64.65171273088566
+
+intput: 59.48
+Expected Output: 60.01
+Actual: 64.66336376037466
+
+intput: 60.01
+Expected Output: 60.37
+Actual: 64.70442844588916
+
+intput: 60.37
+Expected Output: 60.12
+Actual: 64.73222383785134
+
+intput: 60.12
+Expected Output: 60.00
+Actual: 64.71293020955578
+
+intput: 60.00
+Expected Output: 60.28
+Actual: 64.7036551862511
+
+intput: 60.28
+Expected Output: 60.19
+Actual: 64.72528277837459
+
+intput: 60.19
+Expected Output: 60.10
+Actual: 64.71833646898034
+
+intput: 60.10
+Expected Output: 60.28
+Actual: 64.71138499596442
+
+intput: 60.28
+Expected Output: 60.16
+Actual: 64.72528277837459
+
+intput: 60.16
+Expected Output: 60.10
+Actual: 64.71601988077487
+
+intput: 60.10
+Expected Output: 60.09
+Actual: 64.71138499596442
+
+intput: 60.09
+Expected Output: 60.14
+Actual: 64.71061229508928
+
+intput: 60.14
+Expected Output: 59.97
+Actual: 64.71447517147607
+
+intput: 59.97
+Expected Output: 59.72
+Actual: 64.70133503888148
+
+intput: 59.72
+Expected Output: 59.79
+Actual: 64.68197938891478
+
+intput: 59.79
+Expected Output: 59.95
+Actual: 64.68740271400384
+
+intput: 59.95
+Expected Output: 59.80
+Actual: 64.6997879681161
+
+intput: 59.80
+Expected Output: 59.73
+Actual: 64.68817723979407
+
+intput: 59.73
+Expected Output: 59.88
+Actual: 64.68275432500269
+
+intput: 59.88
+Expected Output: 60.19
+Actual: 64.69437130862642
+
+intput: 60.19
+Expected Output: 60.01
+Actual: 64.71833646898034
+
+intput: 60.01
+Expected Output: 60.22
+Actual: 64.70442844588916
+
+intput: 60.22
+Expected Output: 60.19
+Actual: 64.72065248344788
+
+intput: 60.19
+Expected Output: 60.14
+Actual: 64.71833646898034
+
+intput: 60.14
+Expected Output: 60.33
+Actual: 64.71447517147607
+
+intput: 60.33
+Expected Output: 60.19
+Actual: 64.72913957617948
+
+intput: 60.19
+Expected Output: 60.24
+Actual: 64.71833646898034
+
+intput: 60.24
+Expected Output: 60.18
+Actual: 64.72219617276949
+
+intput: 60.18
+Expected Output: 60.00
+Actual: 64.71756433650242
+
+intput: 60.00
+Expected Output: 60.14
+Actual: 64.7036551862511
+
+intput: 60.14
+Expected Output: 60.10
+Actual: 64.71447517147607
+
+intput: 60.10
+Expected Output: 60.15
+Actual: 64.71138499596442
+
+intput: 60.15
+Expected Output: 60.25
+Actual: 64.71524755776252
+
+intput: 60.25
+Expected Output: 60.85
+Actual: 64.72296792097802
+
+intput: 60.85
+Expected Output: 61.02
+Actual: 64.76915061741401
+
+intput: 61.02
+Expected Output: 60.87
+Actual: 64.78219002250324
+
+intput: 60.87
+Expected Output: 61.34
+Actual: 64.77068574827366
+
+intput: 61.34
+Expected Output: 61.41
+Actual: 64.80667675784116
+
+intput: 61.41
+Expected Output: 61.56
+Actual: 64.81202283698495
+
+intput: 61.56
+Expected Output: 61.12
+Actual: 64.82346581945025
+
+intput: 61.12
+Expected Output: 61.18
+Actual: 64.78985038237225
+
+intput: 61.18
+Expected Output: 61.25
+Actual: 64.79444302533088
+
+intput: 61.25
+Expected Output: 61.06
+Actual: 64.7997976820145
+
+intput: 61.06
+Expected Output: 60.73
+Actual: 64.78525505419091
+
+intput: 60.73
+Expected Output: 60.67
+Actual: 64.75993386022857
+
+intput: 60.67
+Expected Output: 60.77
+Actual: 64.75532168424965
+
+intput: 60.77
+Expected Output: 60.44
+Actual: 64.76300724396995
+
+intput: 60.44
+Expected Output: 60.43
+Actual: 64.73761875501557
+
+intput: 60.43
+Expected Output: 60.50
+Actual: 64.7368482517222
+
+intput: 60.50
+Expected Output: 60.47
+Actual: 64.74224036996895
+
+intput: 60.47
+Expected Output: 60.47
+Actual: 64.73992986422695
+
+intput: 60.47
+Expected Output: 60.47
+Actual: 64.73992986422695
+
+intput: 60.47
+Expected Output: 60.61
+Actual: 64.73992986422695
+
+intput: 60.61
+Expected Output: 60.54
+Actual: 64.75070701018282
+
+intput: 60.54
+Expected Output: 60.45
+Actual: 64.74532010008659
+
+intput: 60.45
+Expected Output: 60.44
+Actual: 64.73838919160916
+
+intput: 60.44
+Expected Output: 60.26
+Actual: 64.73761875501557
+
+intput: 60.26
+Expected Output: 60.43
+Actual: 64.72373960472723
+
+intput: 60.43
+Expected Output: 60.83
+Actual: 64.7368482517222
+
+intput: 60.83
+Expected Output: 60.92
+Actual: 64.76761520062729
+
+intput: 60.92
+Expected Output: 60.84
+Actual: 64.77452231842041
+
+intput: 60.84
+Expected Output: 60.99
+Actual: 64.76838294470367
+
+intput: 60.99
+Expected Output: 61.10
+Actual: 64.77989047718921
+
+intput: 61.10
+Expected Output: 60.95
+Actual: 64.78831890344851
+
+intput: 60.95
+Expected Output: 61.06
+Actual: 64.77682339394359
+
+intput: 61.06
+Expected Output: 60.81
+Actual: 64.78525505419091
+
+intput: 60.81
+Expected Output: 60.79
+Actual: 64.76607949883967
+
+intput: 60.79
+Expected Output: 60.87
+Actual: 64.76454351297801
+
+intput: 60.87
+Expected Output: 61.03
+Actual: 64.77068574827366
+
+intput: 61.03
+Expected Output: 61.02
+Actual: 64.7829563908762
+
+intput: 61.02
+Expected Output: 61.57
+Actual: 64.78219002250324
+
+intput: 61.57
+Expected Output: 61.43
+Actual: 64.82422805250691
+
+intput: 61.43
+Expected Output: 61.61
+Actual: 64.81354958886101
+
+intput: 61.61
+Expected Output: 61.75
+Actual: 64.82727618668511
+
+intput: 61.75
+Expected Output: 61.36
+Actual: 64.83793451149637
+
+intput: 61.36
+Expected Output: 61.46
+Actual: 64.8082045962087
+
+intput: 61.46
+Expected Output: 61.04
+Actual: 64.81583913052589
+
+intput: 61.04
+Expected Output: 61.16
+Actual: 64.78372268569169
+
+intput: 61.16
+Expected Output: 61.25
+Actual: 64.7929124442285
+
+intput: 61.25
+Expected Output: 61.11
+Actual: 64.7997976820145
+
+intput: 61.11
+Expected Output: 61.48
+Actual: 64.78908468014797
+
+intput: 61.48
+Expected Output: 61.62
+Actual: 64.81736509955232
+
+intput: 61.62
+Expected Output: 61.29
+Actual: 64.82803802015657
+
+intput: 61.29
+Expected Output: 61.30
+Actual: 64.80285581471622
+
+intput: 61.30
+Expected Output: 61.24
+Actual: 64.80362015685355
+
+intput: 61.24
+Expected Output: 61.23
+Actual: 64.79903295836979
+
+intput: 61.23
+Expected Output: 61.35
+Actual: 64.7982681587651
+
+intput: 61.35
+Expected Output: 61.32
+Actual: 64.80744071562998
+
+intput: 61.32
+Expected Output: 61.46
+Actual: 64.80514861108684
+
+intput: 61.46
+Expected Output: 61.41
+Actual: 64.81583913052589
+
+intput: 61.41
+Expected Output: 61.41
+Actual: 64.81202283698495
+
+intput: 61.41
+Expected Output: 61.39
+Actual: 64.81202283698495
+
+intput: 61.39
+Expected Output: 61.52
+Actual: 64.81049577355091
+
+intput: 61.52
+Expected Output: 61.45
+Actual: 64.82041609254476
+
+intput: 61.45
+Expected Output: 61.55
+Actual: 64.81507602827475
+
+intput: 61.55
+Expected Output: 61.48
+Actual: 64.82270350681331
+
+intput: 61.48
+Expected Output: 61.56
+Actual: 64.81736509955232
+
+intput: 61.56
+Expected Output: 61.65
+Actual: 64.82346581945025
+
+intput: 61.65
+Expected Output: 61.68
+Actual: 64.83032303860219
+
+intput: 61.68
+Expected Output: 61.81
+Actual: 64.83260733174383
+
+intput: 61.81
+Expected Output: 61.83
+Actual: 64.84249748049993
+
+intput: 61.83
+Expected Output: 62.10
+Actual: 64.84401781236821
+
+intput: 62.10
+Expected Output: 61.85
+Actual: 64.86450959565283
+
+intput: 61.85
+Expected Output: 61.78
+Actual: 64.84553781385567
+
+intput: 61.78
+Expected Output: 61.92
+Actual: 64.84021636517664
+
+intput: 61.92
+Expected Output: 61.87
+Actual: 64.85085520450852
+
+intput: 61.87
+Expected Output: 61.87
+Actual: 64.84705748407491
+
+intput: 61.87
+Expected Output: 61.97
+Actual: 64.84705748407491
+
+intput: 61.97
+Expected Output: 62.14
+Actual: 64.85465083514721
+
+intput: 62.14
+Expected Output: 61.93
+Actual: 64.86754016215217
+
+intput: 61.93
+Expected Output: 61.89
+Actual: 64.85161449826184
+
+intput: 61.89
+Expected Output: 61.88
+Actual: 64.84857682213936
+
+intput: 61.88
+Expected Output: 61.85
+Actual: 64.84781719468187
+
+intput: 61.85
+Expected Output: 61.93
+Actual: 64.84553781385567
+
+intput: 61.93
+Expected Output: 61.88
+Actual: 64.85161449826184
+
+intput: 61.88
+Expected Output: 61.95
+Actual: 64.84781719468187
+
+intput: 61.95
+Expected Output: 62.21
+Actual: 64.85313283455088
+
+intput: 62.21
+Expected Output: 62.44
+Actual: 64.87284033792348
+
+intput: 62.44
+Expected Output: 62.65
+Actual: 64.89022506412103
+
+intput: 62.65
+Expected Output: 63.41
+Actual: 64.90605686811907
+
+intput: 63.41
+Expected Output: 63.58
+Actual: 64.9630084734483
+
+intput: 63.58
+Expected Output: 63.32
+Actual: 64.97567064190432
+
+intput: 63.32
+Expected Output: 63.07
+Actual: 64.95629330553304
+
+intput: 63.07
+Expected Output: 63.18
+Actual: 64.93759842179355
+
+intput: 63.18
+Expected Output: 63.45
+Actual: 64.94583165388556
+
+intput: 63.45
+Expected Output: 63.46
+Actual: 64.96599041134479
+
+intput: 63.46
+Expected Output: 63.64
+Actual: 64.96673564643768
+
+intput: 63.64
+Expected Output: 63.65
+Actual: 64.98013268721829
+
+intput: 63.65
+Expected Output: 63.75
+Actual: 64.98087600579984
+
+intput: 63.75
+Expected Output: 63.33
+Actual: 64.98830357167259
+
+intput: 63.33
+Expected Output: 63.32
+Actual: 64.95703983076884
+
+intput: 63.32
+Expected Output: 63.29
+Actual: 64.95629330553304
+
+intput: 63.29
+Expected Output: 63.39
+Actual: 64.95405313908536
+
+intput: 63.39
+Expected Output: 63.38
+Actual: 64.96151690741297
+
+intput: 63.38
+Expected Output: 63.45
+Actual: 64.96077097548094
+
+intput: 63.45
+Expected Output: 62.97
+Actual: 64.96599041134479
+
+intput: 62.97
+Expected Output: 62.40
+Actual: 64.93010358800187
+
+intput: 62.40
+Expected Output: 62.16
+Actual: 64.88720498865258
+
+intput: 62.16
+Expected Output: 62.10
+Actual: 64.86905492977735
+
+intput: 62.10
+Expected Output: 62.15
+Actual: 64.86450959565283
+
+intput: 62.15
+Expected Output: 61.76
+Actual: 64.86829758902459
+
+intput: 61.76
+Expected Output: 61.89
+Actual: 64.83869521124403
+
+intput: 61.89
+Expected Output: 61.70
+Actual: 64.84857682213936
+
+intput: 61.70
+Expected Output: 61.85
+Actual: 64.83412978940052
+
+intput: 61.85
+Expected Output: 61.61
+Actual: 64.84553781385567
+
+intput: 61.61
+Expected Output: 61.69
+Actual: 64.82727618668511
+
+intput: 61.69
+Expected Output: 61.50
+Actual: 64.83336860109044
+
+intput: 61.50
+Expected Output: 61.46
+Actual: 64.81889075385914
+
+intput: 61.46
+Expected Output: 61.41
+Actual: 64.81583913052589
+
+intput: 61.41
+Expected Output: 61.50
+Actual: 64.81202283698495
+
+intput: 61.50
+Expected Output: 61.76
+Actual: 64.81889075385914
+
+intput: 61.76
+Expected Output: 61.88
+Actual: 64.83869521124403
+
+intput: 61.88
+Expected Output: 61.74
+Actual: 64.84781719468187
+
+intput: 61.74
+Expected Output: 61.68
+Actual: 64.83717373004295
+
+intput: 61.68
+Expected Output: 61.87
+Actual: 64.83260733174383
+
+intput: 61.87
+Expected Output: 61.74
+Actual: 64.84705748407491
+
+intput: 61.74
+Expected Output: 62.14
+Actual: 64.83717373004295
+
+intput: 62.14
+Expected Output: 61.96
+Actual: 64.86754016215217
+
+intput: 61.96
+Expected Output: 62.15
+Actual: 64.85389187686582
+
+intput: 62.15
+Expected Output: 62.43
+Actual: 64.86829758902459
+
+intput: 62.43
+Expected Output: 62.14
+Actual: 64.88947017888412
+
+intput: 62.14
+Expected Output: 62.20
+Actual: 64.86754016215217
+
+intput: 62.20
+Expected Output: 62.24
+Actual: 64.87208342940704
+
+intput: 62.24
+Expected Output: 62.26
+Actual: 64.87511054239023
+
+intput: 62.26
+Expected Output: 62.18
+Actual: 64.8766235767105
+
+intput: 62.18
+Expected Output: 62.28
+Actual: 64.8705693524868
+
+intput: 62.28
+Expected Output: 62.05
+Actual: 64.87813626175624
+
+intput: 62.05
+Expected Output: 61.94
+Actual: 64.86071946297005
+
+intput: 61.94
+Expected Output: 61.79
+Actual: 64.85237370831277
+
+intput: 61.79
+Expected Output: 61.82
+Actual: 64.84097681913903
+
+intput: 61.82
+Expected Output: 61.84
+Actual: 64.84325768767619
+
+intput: 61.84
+Expected Output: 61.85
+Actual: 64.84477785446504
+
+intput: 61.85
+Expected Output: 62.20
+Actual: 64.84553781385567
+
+intput: 62.20
+Expected Output: 62.62
+Actual: 64.87208342940704
+
+intput: 62.62
+Expected Output: 62.70
+Actual: 64.90379762969249
+
+intput: 62.70
+Expected Output: 62.74
+Actual: 64.90982043375419
+
+intput: 62.74
+Expected Output: 62.57
+Actual: 64.91282963003414
+
+intput: 62.57
+Expected Output: 62.67
+Actual: 64.90003040981341
+
+intput: 62.67
+Expected Output: 62.82
+Actual: 64.90756256966692
+
+intput: 62.82
+Expected Output: 62.69
+Actual: 64.9188435771254
+
+intput: 62.69
+Expected Output: 62.67
+Actual: 64.90906790429821
+
+intput: 62.67
+Expected Output: 62.42
+Actual: 64.90756256966692
+
+intput: 62.42
+Expected Output: 62.49
+Actual: 64.88871520448853
+
+intput: 62.49
+Expected Output: 62.29
+Actual: 64.89399814915629
+
+intput: 62.29
+Expected Output: 62.20
+Actual: 64.8788924730295
+
+intput: 62.20
+Expected Output: 62.34
+Actual: 64.87208342940704
+
+intput: 62.34
+Expected Output: 62.67
+Actual: 64.8826722125588
+
+intput: 62.67
+Expected Output: 62.61
+Actual: 64.90756256966692
+
+intput: 62.61
+Expected Output: 62.63
+Actual: 64.90304436768214
+
+intput: 62.63
+Expected Output: 62.59
+Actual: 64.90455080050654
+
+intput: 62.59
+Expected Output: 62.16
+Actual: 64.90153757049957
+
+intput: 62.16
+Expected Output: 62.33
+Actual: 64.86905492977735
+
+intput: 62.33
+Expected Output: 62.33
+Actual: 64.88191644059265
+
+intput: 62.33
+Expected Output: 62.26
+Actual: 64.88191644059265
+
+intput: 62.26
+Expected Output: 62.37
+Actual: 64.8766235767105
+
+intput: 62.37
+Expected Output: 62.39
+Actual: 64.88493899890531
+
+intput: 62.39
+Expected Output: 62.40
+Actual: 64.88644974742797
+
+intput: 62.40
+Expected Output: 62.37
+Actual: 64.88720498865258
+
+intput: 62.37
+Expected Output: 62.35
+Actual: 64.88493899890531
+
+intput: 62.35
+Expected Output: 62.56
+Actual: 64.88342789633846
+
+intput: 62.56
+Expected Output: 62.92
+Actual: 64.8992766934238
+
+intput: 62.92
+Expected Output: 62.82
+Actual: 64.92635260596148
+
+intput: 62.82
+Expected Output: 63.19
+Actual: 64.9188435771254
+
+intput: 63.19
+Expected Output: 63.40
+Actual: 64.94657954910899
+
+intput: 63.40
+Expected Output: 63.61
+Actual: 64.96226274010283
+
+intput: 63.61
+Expected Output: 63.33
+Actual: 64.97790212120454
+
+intput: 63.33
+Expected Output: 63.20
+Actual: 64.95703983076884
+
+intput: 63.20
+Expected Output: 63.58
+Actual: 64.94732734714661
+
+intput: 63.58
+Expected Output: 63.52
+Actual: 64.97567064190432
+
+intput: 63.52
+Expected Output: 63.64
+Actual: 64.97120495435432
+
+intput: 63.64
+Expected Output: 63.88
+Actual: 64.98013268721829
+
+intput: 63.88
+Expected Output: 64.05
+Actual: 64.99794401151567
+
+intput: 64.05
+Expected Output: 63.85
+Actual: 65.01052414186364
+
+intput: 63.85
+Expected Output: 64.20
+Actual: 64.99572084933824
+
+intput: 64.20
+Expected Output: 64.19
+Actual: 65.02159886774086
+
+intput: 64.19
+Expected Output: 63.84
+Actual: 65.02086130028303
+
+intput: 63.84
+Expected Output: 63.58
+Actual: 64.9949795873874
+
+intput: 63.58
+Expected Output: 63.55
+Actual: 64.97567064190432
+
+intput: 63.55
+Expected Output: 63.69
+Actual: 64.97343825204383
+
+intput: 63.69
+Expected Output: 63.87
+Actual: 64.98384826032694
+
+intput: 63.87
+Expected Output: 63.70
+Actual: 64.9972030615017
+
+intput: 63.70
+Expected Output: 63.57
+Actual: 64.98459106850638
+
+intput: 63.57
+Expected Output: 63.62
+Actual: 64.9749266129894
+
+intput: 63.62
+Expected Output: 63.84
+Actual: 64.97864574481989
+
+intput: 63.84
+Expected Output: 63.95
+Actual: 64.9949795873874
+
+intput: 63.95
+Expected Output: 63.90
+Actual: 65.00312773909415
+
+intput: 63.90
+Expected Output: 63.76
+Actual: 64.99942559891193
+
+intput: 63.76
+Expected Output: 63.61
+Actual: 64.98904576405846
+
+intput: 63.61
+Expected Output: 63.83
+Actual: 64.97790212120454
+
+intput: 63.83
+Expected Output: 63.85
+Actual: 64.99423822165639
+
+intput: 63.85
+Expected Output: 64.18
+Actual: 64.99572084933824
+
+intput: 64.18
+Expected Output: 63.90
+Actual: 65.02012362560279
+
+intput: 63.90
+Expected Output: 64.11
+Actual: 64.99942559891193
+
+intput: 64.11
+Expected Output: 63.94
+Actual: 65.01495690879186
+
+intput: 63.94
+Expected Output: 63.88
+Actual: 65.00238752040312
+
+intput: 63.88
+Expected Output: 63.89
+Actual: 64.99794401151567
+
+intput: 63.89
+Expected Output: 64.03
+Actual: 64.99868485735215
+
+intput: 64.03
+Expected Output: 64.09
+Actual: 65.00904570500319
+
+intput: 64.09
+Expected Output: 64.15
+Actual: 65.013479744542
+
+intput: 64.15
+Expected Output: 64.11
+Actual: 65.01790995920052
+
+intput: 64.11
+Expected Output: 63.85
+Actual: 65.01495690879186
+
+intput: 63.85
+Expected Output: 63.82
+Actual: 64.99572084933824
+
+intput: 63.82
+Expected Output: 63.51
+Actual: 64.99349675224465
+
+intput: 63.51
+Expected Output: 63.64
+Actual: 64.97046032052413
+
+intput: 63.64
+Expected Output: 63.66
+Actual: 64.98013268721829
+
+intput: 63.66
+Expected Output: 63.61
+Actual: 64.98161922250206
+
+intput: 63.61
+Expected Output: 63.60
+Actual: 64.97790212120454
+
+intput: 63.60
+Expected Output: 63.92
+Actual: 64.97715839611288
+
+intput: 63.92
+Expected Output: 63.75
+Actual: 65.00090676880512
+
+intput: 63.75
+Expected Output: 63.62
+Actual: 64.98830357167259
+
+intput: 63.62
+Expected Output: 63.57
+Actual: 64.97864574481989
+
+intput: 63.57
+Expected Output: 63.40
+Actual: 64.9749266129894
+
+intput: 63.40
+Expected Output: 63.58
+Actual: 64.96226274010283
+
+intput: 63.58
+Expected Output: 63.37
+Actual: 64.97567064190432
+
+intput: 63.37
+Expected Output: 63.57
+Actual: 64.96002494440897
+
+intput: 63.57
+Expected Output: 63.51
+Actual: 64.9749266129894
+
+intput: 63.51
+Expected Output: 63.38
+Actual: 64.97046032052413
+
+intput: 63.38
+Expected Output: 63.47
+Actual: 64.96077097548094
+
+intput: 63.47
+Expected Output: 63.50
+Actual: 64.96748078157432
+
+intput: 63.50
+Expected Output: 63.38
+Actual: 64.96971558622948
+
+intput: 63.38
+Expected Output: 63.50
+Actual: 64.96077097548094
+
+intput: 63.50
+Expected Output: 63.49
+Actual: 64.96971558622948
+
+intput: 63.49
+Expected Output: 63.55
+Actual: 64.9689707515719
+
+intput: 63.55
+Expected Output: 63.65
+Actual: 64.97343825204383
+
+intput: 63.65
+Expected Output: 63.53
+Actual: 64.98087600579984
+
+intput: 63.53
+Expected Output: 63.71
+Actual: 64.97194948761859
+
+intput: 63.71
+Expected Output: 63.89
+Actual: 64.98533377430408
+
+intput: 63.89
+Expected Output: 64.00
+Actual: 64.99868485735215
+
+intput: 64.00
+Expected Output: 64.03
+Actual: 65.00682725751992
+
+intput: 64.03
+Expected Output: 63.89
+Actual: 65.00904570500319
+
+intput: 63.89
+Expected Output: 64.01
+Actual: 64.99868485735215
+
+intput: 64.01
+Expected Output: 64.01
+Actual: 65.00756684550895
+
+intput: 64.01
+Expected Output: 63.96
+Actual: 65.00756684550895
+
+intput: 63.96
+Expected Output: 63.93
+Actual: 65.00386785291481
+
+intput: 63.93
+Expected Output: 63.82
+Actual: 65.00164719694048
+
+intput: 63.82
+Expected Output: 63.76
+Actual: 64.99349675224465
+
+intput: 63.76
+Expected Output: 63.81
+Actual: 64.98904576405846
+
+intput: 63.81
+Expected Output: 63.76
+Actual: 64.99275517925177
+
+intput: 63.76
+Expected Output: 64.17
+Actual: 64.98904576405846
+
+intput: 64.17
+Expected Output: 64.83
+Actual: 65.01938584379738
+
+intput: 64.83
+Expected Output: 64.92
+Actual: 65.06784525511839
+
+intput: 64.92
+Expected Output: 65.12
+Actual: 65.07441571756613
+
+intput: 65.12
+Expected Output: 65.22
+Actual: 65.08898354478764
+
+intput: 65.22
+Expected Output: 65.25
+Actual: 65.09625010684277
+
+intput: 65.25
+Expected Output: 65.24
+Actual: 65.098427800229
+
+intput: 65.24
+Expected Output: 65.83
+Actual: 65.09770201947406
+
+intput: 65.83
+Expected Output: 66.51
+Actual: 65.14031972178029
+
+intput: 66.51
+Expected Output: 66.71
+Actual: 65.18890942605893
+
+intput: 66.71
+Expected Output: 66.16
+Actual: 65.20308906368608
+
+intput: 66.16
+Expected Output: 66.06
+Actual: 65.16397228278952
+
+intput: 66.06
+Expected Output: 66.08
+Actual: 65.15681908528008
+
+intput: 66.08
+Expected Output: 66.31
+Actual: 65.15825072140416
+
+intput: 66.31
+Expected Output: 66.26
+Actual: 65.17467860011152
+
+intput: 66.26
+Expected Output: 66.16
+Actual: 65.17111297212674
+
+intput: 66.16
+Expected Output: 66.23
+Actual: 65.16397228278952
+
+intput: 66.23
+Expected Output: 66.40
+Actual: 65.16897208366525
+
+intput: 66.40
+Expected Output: 66.74
+Actual: 65.18108876463633
+
+intput: 66.74
+Expected Output: 66.61
+Actual: 65.2052115543211
+
+intput: 66.61
+Expected Output: 66.29
+Actual: 65.19600568399157
+
+intput: 66.29
+Expected Output: 66.58
+Actual: 65.17325272733353
+
+intput: 66.58
+Expected Output: 66.39
+Actual: 65.19387815515628
+
+intput: 66.39
+Expected Output: 66.37
+Actual: 65.18037703133277
+
+intput: 66.37
+Expected Output: 66.44
+Actual: 65.17895318383205
+
+intput: 66.44
+Expected Output: 66.50
+Actual: 65.1839344262889
+
+intput: 66.50
+Expected Output: 65.93
+Actual: 65.18819909507394
+
+intput: 65.93
+Expected Output: 65.75
+Actual: 65.14750136736251
+
+intput: 65.75
+Expected Output: 65.62
+Actual: 65.13456559729262
+
+intput: 65.62
+Expected Output: 65.97
+Actual: 65.12519856849158
+
+intput: 65.97
+Expected Output: 66.10
+Actual: 65.15037058261484
+
+intput: 66.10
+Expected Output: 66.08
+Actual: 65.15968185989135
+
+intput: 66.08
+Expected Output: 66.18
+Actual: 65.15825072140416
+
+intput: 66.18
+Expected Output: 65.74
+Actual: 65.16540142399276
+
+intput: 65.74
+Expected Output: 65.55
+Actual: 65.13384578369005
+
+intput: 65.55
+Expected Output: 65.29
+Actual: 65.12014633993806
+
+intput: 65.29
+Expected Output: 65.39
+Actual: 65.10132975073934
+
+intput: 65.39
+Expected Output: 65.26
+Actual: 65.10857638797887
+
+intput: 65.26
+Expected Output: 65.16
+Actual: 65.09915346382314
+
+intput: 65.16
+Expected Output: 64.78
+Actual: 65.09189156648867
+
+intput: 64.78
+Expected Output: 64.73
+Actual: 65.06419102794166
+
+intput: 64.73
+Expected Output: 65.02
+Actual: 65.06053397961186
+
+intput: 65.02
+Expected Output: 65.11
+Actual: 65.08170538455204
+
+intput: 65.11
+Expected Output: 64.82
+Actual: 65.08825624917891
+
+intput: 64.82
+Expected Output: 64.97
+Actual: 65.06711463593516
+
+intput: 64.97
+Expected Output: 64.82
+Actual: 65.07806198366208
+
+intput: 64.82
+Expected Output: 64.89
+Actual: 65.06711463593516
+
+intput: 64.89
+Expected Output: 65.15
+Actual: 65.07222658740616
+
+intput: 65.15
+Expected Output: 64.88
+Actual: 65.09116473535548
+
+intput: 64.88
+Expected Output: 64.96
+Actual: 65.07149664949064
+
+intput: 64.96
+Expected Output: 64.96
+Actual: 65.07733295929087
+
+intput: 64.96
+Expected Output: 65.04
+Actual: 65.07733295929087
+
+intput: 65.04
+Expected Output: 65.15
+Actual: 65.0831619400747
+
+intput: 65.15
+Expected Output: 65.22
+Actual: 65.09116473535548
+
+intput: 65.22
+Expected Output: 65.48
+Actual: 65.09625010684277
+
+intput: 65.48
+Expected Output: 65.45
+Actual: 65.11508823943072
+
+intput: 65.45
+Expected Output: 65.57
+Actual: 65.11291869204014
+
+intput: 65.57
+Expected Output: 65.68
+Actual: 65.12159043431103
+
+intput: 65.68
+Expected Output: 65.79
+Actual: 65.12952435365537
+
+intput: 65.79
+Expected Output: 66.34
+Actual: 65.1374436349867
+
+intput: 66.34
+Expected Output: 66.35
+Actual: 65.1768164615817
+
+intput: 66.35
+Expected Output: 66.14
+Actual: 65.17752882902185
+
+intput: 66.14
+Expected Output: 66.17
+Actual: 65.16254264125709
+
+intput: 66.17
+Expected Output: 65.98
+Actual: 65.1646869159742
+
+intput: 65.98
+Expected Output: 66.11
+Actual: 65.15108757795022
+
+intput: 66.11
+Expected Output: 66.11
+Actual: 65.1603972423102
+
+intput: 66.11
+Expected Output: 66.09
+Actual: 65.1603972423102
+
+intput: 66.09
+Expected Output: 66.35
+Actual: 65.15896635289457
+
+intput: 66.35
+Expected Output: 66.38
+Actual: 65.17752882902185
+
+intput: 66.38
+Expected Output: 66.55
+Actual: 65.17966517103727
+
+intput: 66.55
+Expected Output: 66.75
+Actual: 65.19174946945418
+
+intput: 66.75
+Expected Output: 66.81
+Actual: 65.20591879165602
+
+intput: 66.81
+Expected Output: 66.52
+Actual: 65.21015948488892
+
+intput: 66.52
+Expected Output: 66.62
+Actual: 65.1896196290707
+
+intput: 66.62
+Expected Output: 66.75
+Actual: 65.1967146028116
+
+intput: 66.75
+Expected Output: 66.84
+Actual: 65.20591879165602
+
+intput: 66.84
+Expected Output: 66.63
+Actual: 65.2122780724356
+
+intput: 66.63
+Expected Output: 66.80
+Actual: 65.19742339276807
+
+intput: 66.80
+Expected Output: 66.75
+Actual: 65.20945302817299
+
+intput: 66.75
+Expected Output: 66.79
+Actual: 65.20591879165602
+
+intput: 66.79
+Expected Output: 66.79
+Actual: 65.20874644115547
+
+intput: 66.79
+Expected Output: 66.99
+Actual: 65.20874644115547
+
+intput: 66.99
+Expected Output: 67.04
+Actual: 65.22285333427041
+
+intput: 67.04
+Expected Output: 66.85
+Actual: 65.22637184488171
+
+intput: 66.85
+Expected Output: 66.65
+Actual: 65.21298400715392
+
+intput: 66.65
+Expected Output: 66.42
+Actual: 65.1988405857684
+
+intput: 66.42
+Expected Output: 66.32
+Actual: 65.18251184993903
+
+intput: 66.32
+Expected Output: 66.30
+Actual: 65.1753913470439
+
+intput: 66.30
+Expected Output: 66.20
+Actual: 65.17396572684713
+
+intput: 66.20
+Expected Output: 66.14
+Actual: 65.16683006419663
+
+intput: 66.14
+Expected Output: 66.37
+Actual: 65.16254264125709
+
+intput: 66.37
+Expected Output: 66.42
+Actual: 65.17895318383205
+
+intput: 66.42
+Expected Output: 66.33
+Actual: 65.18251184993903
+
+intput: 66.33
+Expected Output: 66.18
+Actual: 65.17610396756152
+
+intput: 66.18
+Expected Output: 66.46
+Actual: 65.16540142399276
+
+intput: 66.46
+Expected Output: 66.54
+Actual: 65.18535649303058
+
+intput: 66.54
+Expected Output: 66.72
+Actual: 65.19103965084952
+
+intput: 66.72
+Expected Output: 66.91
+Actual: 65.20379669025638
+
+intput: 66.91
+Expected Output: 66.67
+Actual: 65.21721686807321
+
+intput: 66.67
+Expected Output: 66.79
+Actual: 65.20025726234933
+
+intput: 66.79
+Expected Output: 66.89
+Actual: 65.20874644115547
+
+intput: 66.89
+Expected Output: 66.84
+Actual: 65.21580643827066
+
+intput: 66.84
+Expected Output: 67.09
+Actual: 65.2122780724356
+
+intput: 67.09
+Expected Output: 67.43
+Actual: 65.22988705094133
+
+intput: 67.43
+Expected Output: 67.59
+Actual: 65.25370206898566
+
+intput: 67.59
+Expected Output: 67.56
+Actual: 65.2648552583059
+
+intput: 67.56
+Expected Output: 67.98
+Actual: 65.26276668468014
+
+intput: 67.98
+Expected Output: 68.06
+Actual: 65.29189434509269
+
+intput: 68.06
+Expected Output: 67.75
+Actual: 65.29741480483474
+
+intput: 67.75
+Expected Output: 67.64
+Actual: 65.27597354700896
+
+intput: 67.64
+Expected Output: 67.98
+Actual: 65.26833348672986
+
+intput: 67.98
+Expected Output: 68.09
+Actual: 65.29189434509269
+
+intput: 68.09
+Expected Output: 67.88
+Actual: 65.29948267411206
+
+intput: 67.88
+Expected Output: 67.67
+Actual: 65.28498125221985
+
+intput: 67.67
+Expected Output: 67.83
+Actual: 65.27041878399076
+
+intput: 67.83
+Expected Output: 68.18
+Actual: 65.2815195102296
+
+intput: 68.18
+Expected Output: 67.81
+Actual: 65.30567871932367
+
+intput: 67.81
+Expected Output: 67.64
+Actual: 65.28013384642456
+
+intput: 67.64
+Expected Output: 67.82
+Actual: 65.26833348672986
+
+intput: 67.82
+Expected Output: 68.16
+Actual: 65.28082674732755
+
+intput: 68.16
+Expected Output: 67.88
+Actual: 65.30430280234751
+
+intput: 67.88
+Expected Output: 68.02
+Actual: 65.28498125221985
+
+intput: 68.02
+Expected Output: 68.44
+Actual: 65.29465569032286
+
+intput: 68.44
+Expected Output: 68.13
+Actual: 65.32351428628598
+
+intput: 68.13
+Expected Output: 68.34
+Actual: 65.30223787409054
+
+intput: 68.34
+Expected Output: 68.59
+Actual: 65.31666577213096
+
+intput: 68.59
+Expected Output: 68.49
+Actual: 65.33376035512255
+
+intput: 68.49
+Expected Output: 68.55
+Actual: 65.32693321124071
+
+intput: 68.55
+Expected Output: 68.64
+Actual: 65.33103121345825
+
+intput: 68.64
+Expected Output: 68.56
+Actual: 65.33716855747849
+
+intput: 68.56
+Expected Output: 68.60
+Actual: 65.33171371359217
+
+intput: 68.60
+Expected Output: 68.78
+Actual: 65.33444228245547
+
+intput: 68.78
+Expected Output: 68.62
+Actual: 65.34669239555373
+
+intput: 68.62
+Expected Output: 68.16
+Actual: 65.33580570696019
+
+intput: 68.16
+Expected Output: 67.70
+Actual: 65.30430280234751
+
+intput: 67.70
+Expected Output: 67.38
+Actual: 65.27250284899858
+
+intput: 67.38
+Expected Output: 67.27
+Actual: 65.250209587759
+
+intput: 67.27
+Expected Output: 67.34
+Actual: 65.24251428219148
+
+intput: 67.34
+Expected Output: 67.46
+Actual: 65.2474131763978
+
+intput: 67.46
+Expected Output: 67.05
+Actual: 65.25579593654435
+
+intput: 67.05
+Expected Output: 67.09
+Actual: 65.22707515076762
+
+intput: 67.09
+Expected Output: 67.02
+Actual: 65.22988705094133
+
+intput: 67.02
+Expected Output: 67.23
+Actual: 65.22496483664077
+
+intput: 67.23
+Expected Output: 67.37
+Actual: 65.23971196562508
+
+intput: 67.37
+Expected Output: 66.88
+Actual: 65.2495106868921
+
+intput: 66.88
+Expected Output: 66.61
+Actual: 65.21510102681248
+
+intput: 66.61
+Expected Output: 66.50
+Actual: 65.19600568399157
+
+intput: 66.50
+Expected Output: 66.54
+Actual: 65.18819909507394
+
+intput: 66.54
+Expected Output: 66.86
+Actual: 65.19103965084952
+
+intput: 66.86
+Expected Output: 66.67
+Actual: 65.21368981117539
+
+intput: 66.67
+Expected Output: 66.56
+Actual: 65.20025726234933
+
+intput: 66.56
+Expected Output: 66.41
+Actual: 65.19245915976086
+
+intput: 66.41
+Expected Output: 66.33
+Actual: 65.18180037086577
+
+intput: 66.33
+Expected Output: 66.24
+Actual: 65.17610396756152
+
+intput: 66.24
+Expected Output: 66.32
+Actual: 65.16968583893097
+
+intput: 66.32
+Expected Output: 66.58
+Actual: 65.1753913470439
+
+intput: 66.58
+Expected Output: 66.47
+Actual: 65.19387815515628
+
+intput: 66.47
+Expected Output: 66.39
+Actual: 65.18606733509391
+
+intput: 66.39
+Expected Output: 66.50
+Actual: 65.18037703133277
+
+intput: 66.50
+Expected Output: 66.43
+Actual: 65.18819909507394
+
+intput: 66.43
+Expected Output: 66.67
+Actual: 65.18322320177406
+
+intput: 66.67
+Expected Output: 66.24
+Actual: 65.20025726234933
+
+intput: 66.24
+Expected Output: 66.29
+Actual: 65.16968583893097
+
+intput: 66.29
+Expected Output: 66.49
+Actual: 65.17325272733353
+
+intput: 66.49
+Expected Output: 66.68
+Actual: 65.18748863619713
+
+intput: 66.68
+Expected Output: 66.73
+Actual: 65.20096540678183
+
+intput: 66.73
+Expected Output: 66.55
+Actual: 65.20450418716132
+
